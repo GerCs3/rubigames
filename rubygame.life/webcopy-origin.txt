@@ -1,0 +1,184 @@
+Uri: https://rubygame.life/
+File Name: c:\Downloaded Web Sites\rubygame.life\index.htm
+Content Type: text/html
+
+Uri: https://rubygame.life/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/elegant-icons.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\elegant-icons.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/plyr.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\plyr.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/nice-select.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\nice-select.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/slicknav.min.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://rubygame.life/css/style.css
+File Name: c:\Downloaded Web Sites\rubygame.life\css\style.css
+Content Type: text/css
+
+Uri: https://rubygame.life/about-game.html
+File Name: c:\Downloaded Web Sites\rubygame.life\about-game.html
+Content Type: text/html
+
+Uri: https://rubygame.life/img/logo.html
+File Name: c:\Downloaded Web Sites\rubygame.life\img\logo.html
+Content Type: text/html
+
+Uri: https://rubygame.life/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/player.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\player.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/jquery.nice-select.min.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/mixitup.min.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/jquery.slicknav.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/js/main.js
+File Name: c:\Downloaded Web Sites\rubygame.life\js\main.js
+Content Type: application/javascript
+
+Uri: https://rubygame.life/cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.html
+File Name: c:\Downloaded Web Sites\rubygame.life\cdn.000webhost.com\000webhost\logo\footer-powered-by-000webhost-white2.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/fontawesome-webfont3e6e3e6e.html?v=4.7.0
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\fontawesome-webfont3e6e3e6e.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/fontawesome-webfontd41dd41d.html?
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\fontawesome-webfontd41dd41d.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/fontawesome-webfont3e6e-23e6e.html?v=4.7.0
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\fontawesome-webfont3e6e-23e6e.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/fontawesome-webfont3e6e-33e6e.html?v=4.7.0
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\fontawesome-webfont3e6e-33e6e.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/fontawesome-webfont3e6e-43e6e.html?v=4.7.0
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\fontawesome-webfont3e6e-43e6e.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/fontawesome-webfont3e6e-53e6e.html?v=4.7.0
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\fontawesome-webfont3e6e-53e6e.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/ElegantIcons.html
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\ElegantIcons.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/ElegantIconsd41dd41d.html?
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\ElegantIconsd41dd41d.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/ElegantIcons.woff
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://rubygame.life/fonts/ElegantIcons-2.html
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\ElegantIcons-2.html
+Content Type: text/html
+
+Uri: https://rubygame.life/fonts/ElegantIcons-3.html
+File Name: c:\Downloaded Web Sites\rubygame.life\fonts\ElegantIcons-3.html
+Content Type: text/html
+
+Uri: https://rubygame.life/css/owl.video.play.html
+File Name: c:\Downloaded Web Sites\rubygame.life\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://rubygame.life/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\rubygame.life\cdnjs.cloudflare.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://rubygame.life/index-3.html
+File Name: c:\Downloaded Web Sites\rubygame.life\index-3.html
+Content Type: text/html
+
+Uri: https://rubygame.life/categories.html
+File Name: c:\Downloaded Web Sites\rubygame.life\categories.html
+Content Type: text/html
+
+Uri: https://rubygame.life/img/anime/review-1.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-2.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-3.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-4.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-5.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-5.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-7.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-7.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-10.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-10.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-8.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-8.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-9.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-9.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-13.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-13.jpg
+Content Type: image/jpeg
+
+Uri: https://rubygame.life/img/anime/review-14.jpg
+File Name: c:\Downloaded Web Sites\rubygame.life\img\anime\review-14.jpg
+Content Type: image/jpeg
+
